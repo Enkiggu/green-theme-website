@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .container-green{
+        @apply pl-[8.5rem] pr-[8.5rem];
+    }
+}
