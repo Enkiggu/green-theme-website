@@ -26,11 +26,11 @@ module.exports = {
         '115': '115vh',
       },
       backgroundImage: {
-        'linear-background': "url('public/images/Rectangle7.svg')",
-        'about-background': "url('public/images/AboutSection.svg')",
-        'about-card-background': 'url(public/images/Rectangle18.svg)',
-        'blog-background': 'url(public/images/BlogSectionbg.svg)',
-        'footer-background': 'url(public/images/Footer.svg)',
+        'linear-background': "url('./public/images/Rectangle7.svg')",
+        'about-background': "url('./public/images/AboutSection.svg')",
+        'about-card-background': "url('./public/images/Rectangle18.svg')",
+        'blog-background': "url('./public/images/BlogSectionbg.svg')",
+        'footer-background': "url('./public/images/Footer.svg')",
       },
       colors: {
         'site-border' : '#23674F',
